@@ -11,10 +11,16 @@ body{
 h1{
     color:aliceblue;
 }
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:aliceblue;
+
+}
 
 #features{
     background-color: rgb(210, 213, 216);
-    width:900px;
+    width:30%;
     margin:0 auto;
     border-radius: 15px;
     box-shadow: 1px 3px 10px;
@@ -22,7 +28,7 @@ h1{
 }
 
 .container{
-    width:50%;
+    width:60%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -31,7 +37,7 @@ h1{
 }
 
 .nav{
-    height:60px;
+    height:5%;
     background-color: rgba(196, 191, 191, 0.74);
     display: flex;
     align-items: center;
@@ -46,3 +52,4 @@ h1{
     padding:15px;
     color:rgb(216, 204, 204);
 }
+
