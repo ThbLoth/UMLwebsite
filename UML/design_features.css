@@ -7,20 +7,11 @@ body{
     background: radial-gradient(circle, rgba(71,59,61,1) 0%, rgba(38,48,94,1) 93%);
 
 }
-
 h1{
     color:aliceblue;
 }
 
 
-#features{
-    background-color: rgb(210, 213, 216);
-    width:30%;
-    margin:0 auto;
-    border-radius: 15px;
-    box-shadow: 1px 3px 10px;
-    
-}
 
 .container{
     width:60%;
@@ -48,3 +39,10 @@ h1{
     color:rgb(216, 204, 204);
 }
 
+.presentation{
+    background-color: rgb(210, 213, 216);
+    width:70%;
+    margin:0 auto;
+    border-radius: 15px;
+    box-shadow: 1px 3px 10px;
+}
