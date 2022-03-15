@@ -46,3 +46,36 @@ h1{
     border-radius: 15px;
     box-shadow: 1px 3px 10px;
 }
+
+img{
+    width:50%;
+    margin-top: 3%;
+    
+}
+
+.log{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.login{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.description{
+    font-size: 20px;
+    color:aliceblue;
+}
+
+.title_login {
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
