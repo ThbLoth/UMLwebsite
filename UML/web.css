@@ -12,6 +12,9 @@ h1{
     color:aliceblue;
 }
 
+h2{
+    text-decoration: underline;
+}
 
 #features{
     background-color: rgb(210, 213, 216);
@@ -19,6 +22,8 @@ h1{
     margin:0 auto;
     border-radius: 15px;
     box-shadow: 1px 3px 10px;
+    margin-left: 50%;
+    transform: translate(-50%,0%);
     
 }
 
@@ -48,3 +53,21 @@ h1{
     color:rgb(216, 204, 204);
 }
 
+.italic{
+    font-style: italic;
+}
+
+#font_style{
+    background-color: rgb(210, 213, 216);
+    width:35%;
+    margin:0 auto;
+    border-radius: 15px;
+    box-shadow: 1px 3px 10px;
+    margin-left: 50%;
+    transform: translate(-50%,0%);
+}
+
+.index{
+    font-style: italic;
+    font-weight: bold;
+}
